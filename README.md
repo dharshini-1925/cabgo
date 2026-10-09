@@ -3,13 +3,13 @@
 
 ### Your Ride, Your Way.
 
-## 📌 Project Overview
+## Project Overview
 
 CABGO is a smart cab booking application designed to make travelling easy, convenient, and comfortable. The application aims to help users book cabs, choose suitable ride options, view estimated fares, and manage their bookings through a simple and user-friendly interface.
 
 The project is developed incrementally using Agile methodology, with features planned across two development sprints.
 
-## 🎯 Objectives
+##  Objectives
 
 * Provide a simple and attractive user interface for cab booking.
 * Allow users to log in and register for an account.
@@ -17,7 +17,7 @@ The project is developed incrementally using Agile methodology, with features pl
 * Provide cab selection and estimated fare details.
 * Allow users to view and manage their bookings.
 
-## ✨ Key Features
+##  Key Features
 
 ### Sprint 1 – User Login and Cab Booking
 
@@ -37,7 +37,7 @@ The project is developed incrementally using Agile methodology, with features pl
 * Booking history.
 * Cancel booking option.
 
-## 🖥️ Application Pages
+## Application Pages
 
 1. **Login Page:** Allows existing users to access the application.
 2. **Registration Page:** Provides a form for new users to create an account.
@@ -45,11 +45,11 @@ The project is developed incrementally using Agile methodology, with features pl
 4. **Ride Details Page:** Displays driver information and booking status.
 5. **Payment and History Page:** Displays payment options and previous rides.
 
-## 🎨 Wireframe Design
+##  Wireframe Design
 
 The application wireframes are designed using diagrams.net (draw.io). The login page uses a cab-themed background with a golden-yellow and dark-blue color scheme to create an attractive appearance.
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 * **Wireframe Design:** diagrams.net (draw.io)
 * **Version Control:** Git
@@ -57,14 +57,14 @@ The application wireframes are designed using diagrams.net (draw.io). The login 
 * **Development Methodology:** Agile
 * **Project Planning:** GitHub Issues and Projects
 
-## 🔄 Development Plan
+##  Development Plan
 
 | Sprint   | Main Activities                                                                  |
 | -------- | -------------------------------------------------------------------------------- |
 | Sprint 1 | Login, registration, cab selection, pickup/drop locations, estimated fare        |
 | Sprint 2 | Booking confirmation, driver details, ride status, booking history, cancellation |
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone or download the repository.
 2. Open the project folder on your computer.
@@ -77,7 +77,7 @@ To clone the repository, use:
 git clone <your-github-repository-url>
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 CABGO/
@@ -115,7 +115,7 @@ Push changes to GitHub:
 git push origin main
 ```
 
-## 🌟 Future Enhancements
+##  Future Enhancements
 
 * Live GPS-based cab tracking.
 * Online payment integration.
